@@ -1,6 +1,5 @@
 MikiMiki
 ========
-
 Mon jeu : Spécification  
 Petit bonhomme qui danse. 
 Vous avez 4 secondes pour cliquer sur le bonhomme Sinon il disparait et réapparait sur une autre partie de l'écran.  
@@ -23,5 +22,6 @@ Gestion du son
 Comportement du son(danse)
 Rythme sonnore permanent (son1) -- Début du jeu 
 Rythme sonnore echec (son2). 
-Rythme sonnore succès (son3). 
+Rythme sonnore succès (son3).
 Rythme sonnore fin jeu (son4).
+
