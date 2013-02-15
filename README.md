@@ -10,15 +10,5 @@ Si vous cliquez sur le bonhomme à 4 secondes(3..4), vous marquez le point (5) L
 Si vous cliquez sur le bonhomme Après 4 secondes(4+++), vous ne marquez aucun point (0).
 Les points marqués s'ajoutent au fur et à mésure. 
 Votre score ; la somme des points  
-Gestion tactile  
-Comportement du bouton(bonhomme):
-un bouton quand on clique il disparait et apparait ailleurs. 
-un bouton quand on ne clique pas(au bout de 4 secondes) disparait et apparait ailleurs. 
-un bouton avec des cercles autour.  
-Gestion du son  
-Comportement du son(danse)
-Rythme sonnore permanent (son1) -- Début du jeu 
-Rythme sonnore echec (son2). 
-Rythme sonnore succès (son3).
-Rythme sonnore fin jeu (son4).
+
 
